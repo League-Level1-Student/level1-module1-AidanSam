@@ -1,9 +1,15 @@
 package _05_vault;
 
+import _03_harry_potter.HarryPotter;
 
 public class Vault_Runner {
 
-	public class Vaultthigns {
+
 		public static void main(String[] args) {
-			
-}
+			Vaultthigns thing = new Vaultthigns();
+thing.tryCode();
+	}
+	}
+
+
+
