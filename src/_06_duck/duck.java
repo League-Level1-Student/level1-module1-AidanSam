@@ -1,8 +1,9 @@
 package _06_duck;
 
+
 public class duck {
 	
-	int numberoffriends = 2;
+	int numberoffriends = 38900000;
 	String favoritefood = "grass";
 	void quack() {
 		System.out.println("quack");
